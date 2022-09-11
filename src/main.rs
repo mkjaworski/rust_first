@@ -1,3 +1,5 @@
+// kolejny komentarz dodany 
+
 mod second;
 
 // komentarz dodany 

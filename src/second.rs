@@ -1,3 +1,5 @@
+// kolejny komentarz dodany 
+
 pub fn prt1() {
     //Print to the console
     println!("Hello from the second.rs file"); 
