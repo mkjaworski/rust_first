@@ -1,3 +1,3 @@
 # rust_first
 
-Experimenting with Rust, git and Visual Studio Code
+Experimenting with Rust, Git and Visual Studio Code
